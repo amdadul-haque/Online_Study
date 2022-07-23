@@ -1,0 +1,14 @@
+section#courses{
+  height: 100vh;
+  width: 100%;
+  background-color: #333;
+}
+section#blog{
+  height: 100vh;
+  width: 100%;
+  background-color: salmon;
+}
+.nav-container{
+  position: sticky;
+  box-shadow: 0 8px 6px -6px #777;
+}
